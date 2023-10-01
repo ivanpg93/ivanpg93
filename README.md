@@ -10,6 +10,7 @@
   <p>· RecyclerViews</p>
   <p>· Gestión de datos con Firebase y Room</p>
   <p>· Test Unitarios</p>
+  <P>· Notificaciones Push con Cloud Messaging</P>
 </tab>
 <p/>
 <p>💻 Java Developer</p>
