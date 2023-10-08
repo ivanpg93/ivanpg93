@@ -2,17 +2,19 @@
 
 <p>📲 Android Developer</p>
 <tab>
-  <p>· Kotlin</p>
-  <p>· MVVM</p>
-  <p>· Corrutinas</p>
+  <p>· Lenguaje Kotlin</p>
+  <p>· Arquitectura MVVM</p>
+  <p>· Clean Architecture</p>
   <p>· Retrofit</p>
+  <p>· Firebase y Room</p>
+  <p>· Corrutinas</p>
+  <p>· Dagger Hilt</p>
   <p>· Navegación entre Activities y Fragments</p>
   <p>· RecyclerViews</p>
-  <p>· Gestión de datos con Firebase y Room</p>
   <p>· Test Unitarios</p>
-  <P>· Notificaciones Push con Cloud Messaging</P>
+  <P>· Notificaciones Push</P>
 </tab>
-<p/>
+<br/>
 <p>💻 Java Developer</p>
 <tab>
   <p>· MVC</p>
